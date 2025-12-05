@@ -4,7 +4,7 @@ INSTRUCTIONS:
 Place your text files (.txt) in this folder before running the Invite_formatter.py script.
 
 The formatter can handle invitation lists with formats like:
-- John, Doe <john@example.com>; Jane, Smith <jane@example.com>
+- Jameson, Drue <jamhn@example.com>; Watsone, Heapter <heaane@example.com>
 - FirstName, LastName <email1@domain.com>; FirstName2, LastName2 <email2@domain.com>
 
 Formatting options:
